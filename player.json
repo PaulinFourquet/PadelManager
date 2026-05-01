@@ -1,0 +1,2348 @@
+[
+  {
+    "id": "arturo-coello",
+    "name": "Arturo Coello",
+    "gender": "male",
+    "ranking": 45,
+    "rankingPoints": 90,
+    "age": 24,
+    "heightCm": 190,
+    "nationality": "ESP",
+    "photoUrl": "/players/arturo-coello.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "left",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 99,
+        "vibora": 99,
+        "bandejaOff": 99,
+        "volleyAttack": 99
+      },
+      "defense": {
+        "lob": 80,
+        "wallExit": 80,
+        "recovery": 81,
+        "bandejaDef": 80
+      },
+      "technique": {
+        "precision": 91,
+        "slice": 89,
+        "topspin": 87,
+        "serve": 90
+      },
+      "physical": {
+        "speed": 96,
+        "stamina": 97,
+        "reflexes": 98,
+        "jump": 95
+      },
+      "mental": {
+        "composure": 90,
+        "focus": 91,
+        "adaptability": 90,
+        "teamwork": 89
+      },
+      "tactical": {
+        "gameReading": 90,
+        "positioning": 89,
+        "anticipation": 88
+      }
+    }
+  },
+  {
+    "id": "agustin-tapia",
+    "name": "Agustin Tapia",
+    "gender": "male",
+    "ranking": 1,
+    "rankingPoints": 20094,
+    "age": 26,
+    "heightCm": 179,
+    "nationality": "ARG",
+    "photoUrl": "/players/agustin-tapia.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 99,
+        "vibora": 99,
+        "bandejaOff": 99,
+        "volleyAttack": 98
+      },
+      "defense": {
+        "lob": 84,
+        "wallExit": 84,
+        "recovery": 84,
+        "bandejaDef": 84
+      },
+      "technique": {
+        "precision": 98,
+        "slice": 96,
+        "topspin": 94,
+        "serve": 97
+      },
+      "physical": {
+        "speed": 91,
+        "stamina": 92,
+        "reflexes": 93,
+        "jump": 90
+      },
+      "mental": {
+        "composure": 95,
+        "focus": 96,
+        "adaptability": 95,
+        "teamwork": 94
+      },
+      "tactical": {
+        "gameReading": 95,
+        "positioning": 94,
+        "anticipation": 93
+      }
+    }
+  },
+  {
+    "id": "fede-chingotto",
+    "name": "Fede Chingotto",
+    "gender": "male",
+    "ranking": 4,
+    "rankingPoints": 17474,
+    "age": 29,
+    "heightCm": 170,
+    "nationality": "ARG",
+    "photoUrl": "/players/fede-chingotto.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "counter",
+    "stats": {
+      "attack": {
+        "smash": 80,
+        "vibora": 81,
+        "bandejaOff": 79,
+        "volleyAttack": 77
+      },
+      "defense": {
+        "lob": 99,
+        "wallExit": 99,
+        "recovery": 99,
+        "bandejaDef": 99
+      },
+      "technique": {
+        "precision": 93,
+        "slice": 94,
+        "topspin": 89,
+        "serve": 89
+      },
+      "physical": {
+        "speed": 98,
+        "stamina": 96,
+        "reflexes": 97,
+        "jump": 91
+      },
+      "mental": {
+        "composure": 97,
+        "focus": 98,
+        "adaptability": 97,
+        "teamwork": 96
+      },
+      "tactical": {
+        "gameReading": 99,
+        "positioning": 98,
+        "anticipation": 99
+      }
+    }
+  },
+  {
+    "id": "ale-galan",
+    "name": "Ale Galan",
+    "gender": "male",
+    "ranking": 3,
+    "rankingPoints": 17474,
+    "age": 29,
+    "heightCm": 186,
+    "nationality": "ESP",
+    "photoUrl": "/players/ale-galan.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 98,
+        "vibora": 99,
+        "bandejaOff": 98,
+        "volleyAttack": 96
+      },
+      "defense": {
+        "lob": 84,
+        "wallExit": 84,
+        "recovery": 84,
+        "bandejaDef": 84
+      },
+      "technique": {
+        "precision": 93,
+        "slice": 91,
+        "topspin": 89,
+        "serve": 92
+      },
+      "physical": {
+        "speed": 91,
+        "stamina": 92,
+        "reflexes": 93,
+        "jump": 90
+      },
+      "mental": {
+        "composure": 90,
+        "focus": 91,
+        "adaptability": 90,
+        "teamwork": 89
+      },
+      "tactical": {
+        "gameReading": 92,
+        "positioning": 91,
+        "anticipation": 90
+      }
+    }
+  },
+  {
+    "id": "juan-lebron",
+    "name": "Juan Lebron",
+    "gender": "male",
+    "ranking": 11,
+    "rankingPoints": 7491,
+    "age": 31,
+    "heightCm": 184,
+    "nationality": "ESP",
+    "photoUrl": "/players/juan-lebron.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 96,
+        "vibora": 98,
+        "bandejaOff": 96,
+        "volleyAttack": 94
+      },
+      "defense": {
+        "lob": 81,
+        "wallExit": 81,
+        "recovery": 81,
+        "bandejaDef": 81
+      },
+      "technique": {
+        "precision": 92,
+        "slice": 90,
+        "topspin": 88,
+        "serve": 91
+      },
+      "physical": {
+        "speed": 89,
+        "stamina": 89,
+        "reflexes": 91,
+        "jump": 88
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 85,
+        "teamwork": 84
+      },
+      "tactical": {
+        "gameReading": 90,
+        "positioning": 89,
+        "anticipation": 88
+      }
+    }
+  },
+  {
+    "id": "franco-stupaczuk",
+    "name": "Franco Stupaczuk",
+    "gender": "male",
+    "ranking": 13,
+    "rankingPoints": 7373,
+    "age": 30,
+    "heightCm": 180,
+    "nationality": "ARG",
+    "photoUrl": "/players/franco-stupaczuk.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "counter",
+    "stats": {
+      "attack": {
+        "smash": 90,
+        "vibora": 92,
+        "bandejaOff": 90,
+        "volleyAttack": 88
+      },
+      "defense": {
+        "lob": 94,
+        "wallExit": 94,
+        "recovery": 95,
+        "bandejaDef": 94
+      },
+      "technique": {
+        "precision": 92,
+        "slice": 93,
+        "topspin": 88,
+        "serve": 88
+      },
+      "physical": {
+        "speed": 95,
+        "stamina": 93,
+        "reflexes": 94,
+        "jump": 88
+      },
+      "mental": {
+        "composure": 92,
+        "focus": 93,
+        "adaptability": 92,
+        "teamwork": 91
+      },
+      "tactical": {
+        "gameReading": 94,
+        "positioning": 93,
+        "anticipation": 95
+      }
+    }
+  },
+  {
+    "id": "mike-yanguas",
+    "name": "Mike Yanguas",
+    "gender": "male",
+    "ranking": 14,
+    "rankingPoints": 7240,
+    "age": 24,
+    "heightCm": 189,
+    "nationality": "ESP",
+    "photoUrl": "/players/mike-yanguas.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 88,
+        "vibora": 89,
+        "bandejaOff": 87,
+        "volleyAttack": 86
+      },
+      "defense": {
+        "lob": 85,
+        "wallExit": 86,
+        "recovery": 86,
+        "bandejaDef": 85
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 84
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 85
+      },
+      "mental": {
+        "composure": 86,
+        "focus": 87,
+        "adaptability": 85,
+        "teamwork": 87
+      },
+      "tactical": {
+        "gameReading": 89,
+        "positioning": 88,
+        "anticipation": 87
+      }
+    }
+  },
+  {
+    "id": "coki-nieto",
+    "name": "Coki Nieto",
+    "gender": "male",
+    "ranking": 15,
+    "rankingPoints": 6659,
+    "age": 27,
+    "heightCm": 176,
+    "nationality": "ESP",
+    "photoUrl": "/players/coki-nieto.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "defensive",
+    "stats": {
+      "attack": {
+        "smash": 77,
+        "vibora": 78,
+        "bandejaOff": 77,
+        "volleyAttack": 75
+      },
+      "defense": {
+        "lob": 94,
+        "wallExit": 95,
+        "recovery": 95,
+        "bandejaDef": 95
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 81
+      },
+      "physical": {
+        "speed": 92,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 81
+      },
+      "mental": {
+        "composure": 91,
+        "focus": 92,
+        "adaptability": 91,
+        "teamwork": 90
+      },
+      "tactical": {
+        "gameReading": 93,
+        "positioning": 92,
+        "anticipation": 91
+      }
+    }
+  },
+  {
+    "id": "jon-sanz",
+    "name": "Jon Sanz",
+    "gender": "male",
+    "ranking": 16,
+    "rankingPoints": 6304,
+    "age": 25,
+    "heightCm": 181,
+    "nationality": "ESP",
+    "photoUrl": "/players/jon-sanz.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "left",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 93,
+        "vibora": 94,
+        "bandejaOff": 92,
+        "volleyAttack": 91
+      },
+      "defense": {
+        "lob": 79,
+        "wallExit": 80,
+        "recovery": 80,
+        "bandejaDef": 79
+      },
+      "technique": {
+        "precision": 88,
+        "slice": 86,
+        "topspin": 84,
+        "serve": 87
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 89
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 84
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "martin-di-nenno",
+    "name": "Martin Di Nenno",
+    "gender": "male",
+    "ranking": 18,
+    "rankingPoints": 6107,
+    "age": 29,
+    "heightCm": 175,
+    "nationality": "ARG",
+    "photoUrl": "/players/martin-di-nenno.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "defensive",
+    "stats": {
+      "attack": {
+        "smash": 79,
+        "vibora": 81,
+        "bandejaOff": 79,
+        "volleyAttack": 77
+      },
+      "defense": {
+        "lob": 98,
+        "wallExit": 98,
+        "recovery": 98,
+        "bandejaDef": 98
+      },
+      "technique": {
+        "precision": 93,
+        "slice": 91,
+        "topspin": 89,
+        "serve": 85
+      },
+      "physical": {
+        "speed": 94,
+        "stamina": 92,
+        "reflexes": 93,
+        "jump": 83
+      },
+      "mental": {
+        "composure": 94,
+        "focus": 95,
+        "adaptability": 94,
+        "teamwork": 93
+      },
+      "tactical": {
+        "gameReading": 96,
+        "positioning": 95,
+        "anticipation": 94
+      }
+    }
+  },
+  {
+    "id": "paquito-navarro",
+    "name": "Paquito Navarro",
+    "gender": "male",
+    "ranking": 20,
+    "rankingPoints": 5713,
+    "age": 37,
+    "heightCm": 181,
+    "nationality": "ESP",
+    "photoUrl": "/players/paquito-navarro.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 92,
+        "vibora": 94,
+        "bandejaOff": 92,
+        "volleyAttack": 90
+      },
+      "defense": {
+        "lob": 80,
+        "wallExit": 79,
+        "recovery": 80,
+        "bandejaDef": 80
+      },
+      "technique": {
+        "precision": 93,
+        "slice": 91,
+        "topspin": 89,
+        "serve": 92
+      },
+      "physical": {
+        "speed": 82,
+        "stamina": 82,
+        "reflexes": 84,
+        "jump": 81
+      },
+      "mental": {
+        "composure": 88,
+        "focus": 89,
+        "adaptability": 88,
+        "teamwork": 87
+      },
+      "tactical": {
+        "gameReading": 92,
+        "positioning": 91,
+        "anticipation": 90
+      }
+    }
+  },
+  {
+    "id": "momo-gonzalez",
+    "name": "Momo Gonzalez",
+    "gender": "male",
+    "ranking": 21,
+    "rankingPoints": 5467,
+    "age": 28,
+    "heightCm": 180,
+    "nationality": "ESP",
+    "photoUrl": "/players/momo-gonzalez.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 85,
+        "vibora": 86,
+        "bandejaOff": 85,
+        "volleyAttack": 83
+      },
+      "defense": {
+        "lob": 90,
+        "wallExit": 90,
+        "recovery": 90,
+        "bandejaDef": 90
+      },
+      "technique": {
+        "precision": 91,
+        "slice": 89,
+        "topspin": 87,
+        "serve": 86
+      },
+      "physical": {
+        "speed": 89,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 84
+      },
+      "mental": {
+        "composure": 90,
+        "focus": 91,
+        "adaptability": 90,
+        "teamwork": 91
+      },
+      "tactical": {
+        "gameReading": 92,
+        "positioning": 91,
+        "anticipation": 90
+      }
+    }
+  },
+  {
+    "id": "javi-garrido",
+    "name": "Javi Garrido",
+    "gender": "male",
+    "ranking": 23,
+    "rankingPoints": 5221,
+    "age": 25,
+    "heightCm": 184,
+    "nationality": "ESP",
+    "photoUrl": "/players/javi-garrido.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 94,
+        "vibora": 95,
+        "bandejaOff": 93,
+        "volleyAttack": 91
+      },
+      "defense": {
+        "lob": 79,
+        "wallExit": 80,
+        "recovery": 80,
+        "bandejaDef": 79
+      },
+      "technique": {
+        "precision": 88,
+        "slice": 86,
+        "topspin": 84,
+        "serve": 87
+      },
+      "physical": {
+        "speed": 88,
+        "stamina": 88,
+        "reflexes": 89,
+        "jump": 87
+      },
+      "mental": {
+        "composure": 83,
+        "focus": 84,
+        "adaptability": 82,
+        "teamwork": 82
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "lucas-bergamini",
+    "name": "Lucas Bergamini",
+    "gender": "male",
+    "ranking": 25,
+    "rankingPoints": 5024,
+    "age": 28,
+    "heightCm": 173,
+    "nationality": "BRA",
+    "photoUrl": "/players/lucas-bergamini.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 84,
+        "vibora": 85,
+        "bandejaOff": 84,
+        "volleyAttack": 82
+      },
+      "defense": {
+        "lob": 88,
+        "wallExit": 89,
+        "recovery": 89,
+        "bandejaDef": 89
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 84
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 91,
+        "reflexes": 92,
+        "jump": 85
+      },
+      "mental": {
+        "composure": 89,
+        "focus": 90,
+        "adaptability": 89,
+        "teamwork": 90
+      },
+      "tactical": {
+        "gameReading": 91,
+        "positioning": 90,
+        "anticipation": 89
+      }
+    }
+  },
+  {
+    "id": "pablo-cardona",
+    "name": "Pablo Cardona",
+    "gender": "male",
+    "ranking": 27,
+    "rankingPoints": 4748,
+    "age": 21,
+    "heightCm": 188,
+    "nationality": "ESP",
+    "photoUrl": "/players/pablo-cardona.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "left",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 94,
+        "vibora": 95,
+        "bandejaOff": 93,
+        "volleyAttack": 91
+      },
+      "defense": {
+        "lob": 77,
+        "wallExit": 78,
+        "recovery": 78,
+        "bandejaDef": 77
+      },
+      "technique": {
+        "precision": 86,
+        "slice": 84,
+        "topspin": 82,
+        "serve": 85
+      },
+      "physical": {
+        "speed": 91,
+        "stamina": 91,
+        "reflexes": 92,
+        "jump": 90
+      },
+      "mental": {
+        "composure": 81,
+        "focus": 82,
+        "adaptability": 80,
+        "teamwork": 80
+      },
+      "tactical": {
+        "gameReading": 84,
+        "positioning": 83,
+        "anticipation": 82
+      }
+    }
+  },
+  {
+    "id": "javi-leal",
+    "name": "Javi Leal",
+    "gender": "male",
+    "ranking": 28,
+    "rankingPoints": 4630,
+    "age": 22,
+    "heightCm": 182,
+    "nationality": "ESP",
+    "photoUrl": "/players/javi-leal.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 92,
+        "vibora": 93,
+        "bandejaOff": 91,
+        "volleyAttack": 89
+      },
+      "defense": {
+        "lob": 78,
+        "wallExit": 79,
+        "recovery": 79,
+        "bandejaDef": 78
+      },
+      "technique": {
+        "precision": 86,
+        "slice": 84,
+        "topspin": 82,
+        "serve": 85
+      },
+      "physical": {
+        "speed": 89,
+        "stamina": 89,
+        "reflexes": 90,
+        "jump": 88
+      },
+      "mental": {
+        "composure": 82,
+        "focus": 83,
+        "adaptability": 81,
+        "teamwork": 81
+      },
+      "tactical": {
+        "gameReading": 85,
+        "positioning": 84,
+        "anticipation": 83
+      }
+    }
+  },
+  {
+    "id": "juan-tello",
+    "name": "Juan Tello",
+    "gender": "male",
+    "ranking": 30,
+    "rankingPoints": 4433,
+    "age": 31,
+    "heightCm": 183,
+    "nationality": "ARG",
+    "photoUrl": "/players/juan-tello.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 92,
+        "vibora": 93,
+        "bandejaOff": 91,
+        "volleyAttack": 90
+      },
+      "defense": {
+        "lob": 80,
+        "wallExit": 81,
+        "recovery": 81,
+        "bandejaDef": 80
+      },
+      "technique": {
+        "precision": 87,
+        "slice": 85,
+        "topspin": 83,
+        "serve": 86
+      },
+      "physical": {
+        "speed": 88,
+        "stamina": 88,
+        "reflexes": 89,
+        "jump": 87
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 84
+      },
+      "tactical": {
+        "gameReading": 86,
+        "positioning": 85,
+        "anticipation": 84
+      }
+    }
+  },
+  {
+    "id": "edu-alonso",
+    "name": "Edu Alonso",
+    "gender": "male",
+    "ranking": 31,
+    "rankingPoints": 4314,
+    "age": 24,
+    "heightCm": 180,
+    "nationality": "ESP",
+    "photoUrl": "/players/edu-alonso.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 84,
+        "vibora": 85,
+        "bandejaOff": 83,
+        "volleyAttack": 82
+      },
+      "defense": {
+        "lob": 85,
+        "wallExit": 85,
+        "recovery": 86,
+        "bandejaDef": 85
+      },
+      "technique": {
+        "precision": 87,
+        "slice": 85,
+        "topspin": 83,
+        "serve": 82
+      },
+      "physical": {
+        "speed": 87,
+        "stamina": 87,
+        "reflexes": 88,
+        "jump": 82
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "sanyo-gutierrez",
+    "name": "Sanyo Gutierrez",
+    "gender": "male",
+    "ranking": 32,
+    "rankingPoints": 3960,
+    "age": 41,
+    "heightCm": 177,
+    "nationality": "ARG",
+    "photoUrl": "/players/sanyo-gutierrez.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 83,
+        "vibora": 86,
+        "bandejaOff": 84,
+        "volleyAttack": 82
+      },
+      "defense": {
+        "lob": 84,
+        "wallExit": 83,
+        "recovery": 84,
+        "bandejaDef": 84
+      },
+      "technique": {
+        "precision": 96,
+        "slice": 94,
+        "topspin": 92,
+        "serve": 91
+      },
+      "physical": {
+        "speed": 76,
+        "stamina": 77,
+        "reflexes": 78,
+        "jump": 71
+      },
+      "mental": {
+        "composure": 92,
+        "focus": 93,
+        "adaptability": 92,
+        "teamwork": 93
+      },
+      "tactical": {
+        "gameReading": 96,
+        "positioning": 95,
+        "anticipation": 94
+      }
+    }
+  },
+  {
+    "id": "lucho-capra",
+    "name": "Lucho Capra",
+    "gender": "male",
+    "ranking": 33,
+    "rankingPoints": 3842,
+    "age": 32,
+    "heightCm": 176,
+    "nationality": "ARG",
+    "photoUrl": "/players/lucho-capra.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "left",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 83,
+        "vibora": 84,
+        "bandejaOff": 82,
+        "volleyAttack": 81
+      },
+      "defense": {
+        "lob": 86,
+        "wallExit": 86,
+        "recovery": 87,
+        "bandejaDef": 86
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 84
+      },
+      "physical": {
+        "speed": 86,
+        "stamina": 86,
+        "reflexes": 87,
+        "jump": 81
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 86,
+        "teamwork": 88
+      },
+      "tactical": {
+        "gameReading": 89,
+        "positioning": 88,
+        "anticipation": 87
+      }
+    }
+  },
+  {
+    "id": "alex-ruiz",
+    "name": "Alex Ruiz",
+    "gender": "male",
+    "ranking": 34,
+    "rankingPoints": 3704,
+    "age": 31,
+    "heightCm": 186,
+    "nationality": "ESP",
+    "photoUrl": "/players/alex-ruiz.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "left",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 90,
+        "vibora": 91,
+        "bandejaOff": 89,
+        "volleyAttack": 88
+      },
+      "defense": {
+        "lob": 79,
+        "wallExit": 79,
+        "recovery": 80,
+        "bandejaDef": 79
+      },
+      "technique": {
+        "precision": 87,
+        "slice": 85,
+        "topspin": 83,
+        "serve": 86
+      },
+      "physical": {
+        "speed": 86,
+        "stamina": 86,
+        "reflexes": 87,
+        "jump": 85
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 84
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "alejandro-ruiz-granados",
+    "name": "Alejandro Ruiz Granados",
+    "gender": "male",
+    "ranking": 35,
+    "rankingPoints": 3546,
+    "age": 30,
+    "heightCm": 182,
+    "nationality": "ESP",
+    "photoUrl": "/players/alejandro-ruiz-granados.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 83,
+        "vibora": 84,
+        "bandejaOff": 82,
+        "volleyAttack": 81
+      },
+      "defense": {
+        "lob": 84,
+        "wallExit": 84,
+        "recovery": 85,
+        "bandejaDef": 84
+      },
+      "technique": {
+        "precision": 87,
+        "slice": 85,
+        "topspin": 83,
+        "serve": 82
+      },
+      "physical": {
+        "speed": 85,
+        "stamina": 85,
+        "reflexes": 86,
+        "jump": 80
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "victor-ruiz",
+    "name": "Victor Ruiz",
+    "gender": "male",
+    "ranking": 37,
+    "rankingPoints": 3398,
+    "age": 36,
+    "heightCm": 181,
+    "nationality": "ESP",
+    "photoUrl": "/players/victor-ruiz.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "defensive",
+    "stats": {
+      "attack": {
+        "smash": 76,
+        "vibora": 77,
+        "bandejaOff": 76,
+        "volleyAttack": 74
+      },
+      "defense": {
+        "lob": 91,
+        "wallExit": 91,
+        "recovery": 92,
+        "bandejaDef": 92
+      },
+      "technique": {
+        "precision": 86,
+        "slice": 84,
+        "topspin": 82,
+        "serve": 78
+      },
+      "physical": {
+        "speed": 85,
+        "stamina": 82,
+        "reflexes": 84,
+        "jump": 74
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 87,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 90,
+        "positioning": 89,
+        "anticipation": 88
+      }
+    }
+  },
+  {
+    "id": "pablo-lima",
+    "name": "Pablo Lima",
+    "gender": "male",
+    "ranking": 40,
+    "rankingPoints": 3251,
+    "age": 39,
+    "heightCm": 180,
+    "nationality": "BRA",
+    "photoUrl": "/players/pablo-lima.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "left",
+    "naturalStyle": "defensive",
+    "stats": {
+      "attack": {
+        "smash": 77,
+        "vibora": 79,
+        "bandejaOff": 78,
+        "volleyAttack": 76
+      },
+      "defense": {
+        "lob": 93,
+        "wallExit": 92,
+        "recovery": 93,
+        "bandejaDef": 93
+      },
+      "technique": {
+        "precision": 90,
+        "slice": 88,
+        "topspin": 86,
+        "serve": 82
+      },
+      "physical": {
+        "speed": 83,
+        "stamina": 81,
+        "reflexes": 82,
+        "jump": 72
+      },
+      "mental": {
+        "composure": 90,
+        "focus": 91,
+        "adaptability": 90,
+        "teamwork": 89
+      },
+      "tactical": {
+        "gameReading": 93,
+        "positioning": 92,
+        "anticipation": 91
+      }
+    }
+  },
+  {
+    "id": "maxi-sanchez",
+    "name": "Maxi Sanchez",
+    "gender": "male",
+    "ranking": 44,
+    "rankingPoints": 3132,
+    "age": 39,
+    "heightCm": 183,
+    "nationality": "ARG",
+    "photoUrl": "/players/maxi-sanchez.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 82,
+        "vibora": 84,
+        "bandejaOff": 82,
+        "volleyAttack": 81
+      },
+      "defense": {
+        "lob": 83,
+        "wallExit": 83,
+        "recovery": 84,
+        "bandejaDef": 83
+      },
+      "technique": {
+        "precision": 88,
+        "slice": 86,
+        "topspin": 84,
+        "serve": 83
+      },
+      "physical": {
+        "speed": 79,
+        "stamina": 79,
+        "reflexes": 80,
+        "jump": 74
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 86,
+        "teamwork": 88
+      },
+      "tactical": {
+        "gameReading": 89,
+        "positioning": 88,
+        "anticipation": 87
+      }
+    }
+  },
+  {
+    "id": "gemma-triay",
+    "name": "Gemma Triay",
+    "gender": "female",
+    "ranking": 2,
+    "rankingPoints": 18557,
+    "age": 33,
+    "heightCm": 174,
+    "nationality": "ESP",
+    "photoUrl": "/players/gemma-triay.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 93,
+        "vibora": 95,
+        "bandejaOff": 93,
+        "volleyAttack": 91
+      },
+      "defense": {
+        "lob": 91,
+        "wallExit": 91,
+        "recovery": 91,
+        "bandejaDef": 91
+      },
+      "technique": {
+        "precision": 97,
+        "slice": 95,
+        "topspin": 93,
+        "serve": 92
+      },
+      "physical": {
+        "speed": 89,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 84
+      },
+      "mental": {
+        "composure": 96,
+        "focus": 97,
+        "adaptability": 96,
+        "teamwork": 97
+      },
+      "tactical": {
+        "gameReading": 98,
+        "positioning": 97,
+        "anticipation": 96
+      }
+    }
+  },
+  {
+    "id": "delfi-brea",
+    "name": "Delfi Brea",
+    "gender": "female",
+    "ranking": 5,
+    "rankingPoints": 17001,
+    "age": 26,
+    "heightCm": 170,
+    "nationality": "ARG",
+    "photoUrl": "/players/delfi-brea.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 98,
+        "vibora": 99,
+        "bandejaOff": 98,
+        "volleyAttack": 96
+      },
+      "defense": {
+        "lob": 85,
+        "wallExit": 85,
+        "recovery": 86,
+        "bandejaDef": 85
+      },
+      "technique": {
+        "precision": 94,
+        "slice": 92,
+        "topspin": 90,
+        "serve": 93
+      },
+      "physical": {
+        "speed": 92,
+        "stamina": 93,
+        "reflexes": 94,
+        "jump": 91
+      },
+      "mental": {
+        "composure": 92,
+        "focus": 93,
+        "adaptability": 92,
+        "teamwork": 91
+      },
+      "tactical": {
+        "gameReading": 92,
+        "positioning": 91,
+        "anticipation": 90
+      }
+    }
+  },
+  {
+    "id": "ari-sanchez",
+    "name": "Ari Sanchez",
+    "gender": "female",
+    "ranking": 6,
+    "rankingPoints": 14519,
+    "age": 28,
+    "heightCm": 165,
+    "nationality": "ESP",
+    "photoUrl": "/players/ari-sanchez.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 89,
+        "vibora": 91,
+        "bandejaOff": 89,
+        "volleyAttack": 87
+      },
+      "defense": {
+        "lob": 92,
+        "wallExit": 92,
+        "recovery": 92,
+        "bandejaDef": 92
+      },
+      "technique": {
+        "precision": 96,
+        "slice": 94,
+        "topspin": 92,
+        "serve": 91
+      },
+      "physical": {
+        "speed": 91,
+        "stamina": 92,
+        "reflexes": 93,
+        "jump": 86
+      },
+      "mental": {
+        "composure": 95,
+        "focus": 96,
+        "adaptability": 95,
+        "teamwork": 96
+      },
+      "tactical": {
+        "gameReading": 96,
+        "positioning": 95,
+        "anticipation": 94
+      }
+    }
+  },
+  {
+    "id": "paula-josemaria",
+    "name": "Paula Josemaria",
+    "gender": "female",
+    "ranking": 7,
+    "rankingPoints": 14519,
+    "age": 29,
+    "heightCm": 168,
+    "nationality": "ESP",
+    "photoUrl": "/players/paula-josemaria.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "left",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 98,
+        "vibora": 99,
+        "bandejaOff": 98,
+        "volleyAttack": 96
+      },
+      "defense": {
+        "lob": 85,
+        "wallExit": 85,
+        "recovery": 85,
+        "bandejaDef": 85
+      },
+      "technique": {
+        "precision": 94,
+        "slice": 92,
+        "topspin": 90,
+        "serve": 93
+      },
+      "physical": {
+        "speed": 91,
+        "stamina": 92,
+        "reflexes": 93,
+        "jump": 90
+      },
+      "mental": {
+        "composure": 93,
+        "focus": 94,
+        "adaptability": 93,
+        "teamwork": 92
+      },
+      "tactical": {
+        "gameReading": 93,
+        "positioning": 92,
+        "anticipation": 91
+      }
+    }
+  },
+  {
+    "id": "claudia-fernandez",
+    "name": "Claudia Fernandez",
+    "gender": "female",
+    "ranking": 8,
+    "rankingPoints": 12933,
+    "age": 20,
+    "heightCm": 169,
+    "nationality": "ESP",
+    "photoUrl": "/players/claudia-fernandez.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 87,
+        "vibora": 89,
+        "bandejaOff": 87,
+        "volleyAttack": 85
+      },
+      "defense": {
+        "lob": 90,
+        "wallExit": 90,
+        "recovery": 90,
+        "bandejaDef": 90
+      },
+      "technique": {
+        "precision": 92,
+        "slice": 90,
+        "topspin": 88,
+        "serve": 87
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 91,
+        "reflexes": 92,
+        "jump": 85
+      },
+      "mental": {
+        "composure": 89,
+        "focus": 90,
+        "adaptability": 89,
+        "teamwork": 90
+      },
+      "tactical": {
+        "gameReading": 91,
+        "positioning": 90,
+        "anticipation": 89
+      }
+    }
+  },
+  {
+    "id": "bea-gonzalez",
+    "name": "Bea Gonzalez",
+    "gender": "female",
+    "ranking": 9,
+    "rankingPoints": 10697,
+    "age": 24,
+    "heightCm": 171,
+    "nationality": "ESP",
+    "photoUrl": "/players/bea-gonzalez.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 97,
+        "vibora": 99,
+        "bandejaOff": 97,
+        "volleyAttack": 95
+      },
+      "defense": {
+        "lob": 82,
+        "wallExit": 82,
+        "recovery": 82,
+        "bandejaDef": 82
+      },
+      "technique": {
+        "precision": 92,
+        "slice": 90,
+        "topspin": 88,
+        "serve": 91
+      },
+      "physical": {
+        "speed": 91,
+        "stamina": 91,
+        "reflexes": 93,
+        "jump": 90
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 87,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 90,
+        "positioning": 89,
+        "anticipation": 88
+      }
+    }
+  },
+  {
+    "id": "sofia-araujo",
+    "name": "Sofia Araujo",
+    "gender": "female",
+    "ranking": 10,
+    "rankingPoints": 7673,
+    "age": 31,
+    "heightCm": 178,
+    "nationality": "POR",
+    "photoUrl": "/players/sofia-araujo.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 94,
+        "vibora": 95,
+        "bandejaOff": 93,
+        "volleyAttack": 92
+      },
+      "defense": {
+        "lob": 81,
+        "wallExit": 82,
+        "recovery": 82,
+        "bandejaDef": 81
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 88
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 89
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 86,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 88,
+        "positioning": 87,
+        "anticipation": 86
+      }
+    }
+  },
+  {
+    "id": "marta-ortega",
+    "name": "Marta Ortega",
+    "gender": "female",
+    "ranking": 12,
+    "rankingPoints": 7437,
+    "age": 29,
+    "heightCm": 170,
+    "nationality": "ESP",
+    "photoUrl": "/players/marta-ortega.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 86,
+        "vibora": 88,
+        "bandejaOff": 86,
+        "volleyAttack": 84
+      },
+      "defense": {
+        "lob": 90,
+        "wallExit": 90,
+        "recovery": 90,
+        "bandejaDef": 90
+      },
+      "technique": {
+        "precision": 93,
+        "slice": 91,
+        "topspin": 89,
+        "serve": 88
+      },
+      "physical": {
+        "speed": 88,
+        "stamina": 89,
+        "reflexes": 90,
+        "jump": 83
+      },
+      "mental": {
+        "composure": 91,
+        "focus": 92,
+        "adaptability": 91,
+        "teamwork": 92
+      },
+      "tactical": {
+        "gameReading": 93,
+        "positioning": 92,
+        "anticipation": 91
+      }
+    }
+  },
+  {
+    "id": "andrea-ustero",
+    "name": "Andrea Ustero",
+    "gender": "female",
+    "ranking": 17,
+    "rankingPoints": 6250,
+    "age": 18,
+    "heightCm": 171,
+    "nationality": "ESP",
+    "photoUrl": "/players/andrea-ustero.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "left",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 92,
+        "vibora": 93,
+        "bandejaOff": 91,
+        "volleyAttack": 89
+      },
+      "defense": {
+        "lob": 81,
+        "wallExit": 82,
+        "recovery": 82,
+        "bandejaDef": 81
+      },
+      "technique": {
+        "precision": 88,
+        "slice": 86,
+        "topspin": 84,
+        "serve": 87
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 90,
+        "reflexes": 91,
+        "jump": 89
+      },
+      "mental": {
+        "composure": 83,
+        "focus": 84,
+        "adaptability": 82,
+        "teamwork": 82
+      },
+      "tactical": {
+        "gameReading": 86,
+        "positioning": 85,
+        "anticipation": 84
+      }
+    }
+  },
+  {
+    "id": "tamara-icardo",
+    "name": "Tamara Icardo",
+    "gender": "female",
+    "ranking": 19,
+    "rankingPoints": 5851,
+    "age": 30,
+    "heightCm": 168,
+    "nationality": "ESP",
+    "photoUrl": "/players/tamara-icardo.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 85,
+        "vibora": 86,
+        "bandejaOff": 85,
+        "volleyAttack": 83
+      },
+      "defense": {
+        "lob": 89,
+        "wallExit": 88,
+        "recovery": 89,
+        "bandejaDef": 89
+      },
+      "technique": {
+        "precision": 91,
+        "slice": 89,
+        "topspin": 87,
+        "serve": 86
+      },
+      "physical": {
+        "speed": 86,
+        "stamina": 87,
+        "reflexes": 88,
+        "jump": 81
+      },
+      "mental": {
+        "composure": 89,
+        "focus": 90,
+        "adaptability": 89,
+        "teamwork": 90
+      },
+      "tactical": {
+        "gameReading": 91,
+        "positioning": 90,
+        "anticipation": 89
+      }
+    }
+  },
+  {
+    "id": "alejandra-alonso",
+    "name": "Alejandra Alonso",
+    "gender": "female",
+    "ranking": 22,
+    "rankingPoints": 5403,
+    "age": 19,
+    "heightCm": 170,
+    "nationality": "ESP",
+    "photoUrl": "/players/alejandra-alonso.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 91,
+        "vibora": 92,
+        "bandejaOff": 90,
+        "volleyAttack": 88
+      },
+      "defense": {
+        "lob": 80,
+        "wallExit": 81,
+        "recovery": 81,
+        "bandejaDef": 80
+      },
+      "technique": {
+        "precision": 87,
+        "slice": 85,
+        "topspin": 83,
+        "serve": 86
+      },
+      "physical": {
+        "speed": 89,
+        "stamina": 89,
+        "reflexes": 90,
+        "jump": 88
+      },
+      "mental": {
+        "composure": 83,
+        "focus": 84,
+        "adaptability": 82,
+        "teamwork": 82
+      },
+      "tactical": {
+        "gameReading": 86,
+        "positioning": 85,
+        "anticipation": 84
+      }
+    }
+  },
+  {
+    "id": "claudia-jensen",
+    "name": "Claudia Jensen",
+    "gender": "female",
+    "ranking": 24,
+    "rankingPoints": 5083,
+    "age": 20,
+    "heightCm": 168,
+    "nationality": "ARG",
+    "photoUrl": "/players/claudia-jensen.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 86,
+        "vibora": 87,
+        "bandejaOff": 85,
+        "volleyAttack": 84
+      },
+      "defense": {
+        "lob": 85,
+        "wallExit": 86,
+        "recovery": 86,
+        "bandejaDef": 85
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 84
+      },
+      "physical": {
+        "speed": 88,
+        "stamina": 88,
+        "reflexes": 89,
+        "jump": 83
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "alejandra-salazar",
+    "name": "Alejandra Salazar",
+    "gender": "female",
+    "ranking": 26,
+    "rankingPoints": 4955,
+    "age": 40,
+    "heightCm": 169,
+    "nationality": "ESP",
+    "photoUrl": "/players/alejandra-salazar.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 83,
+        "vibora": 86,
+        "bandejaOff": 84,
+        "volleyAttack": 82
+      },
+      "defense": {
+        "lob": 88,
+        "wallExit": 87,
+        "recovery": 88,
+        "bandejaDef": 88
+      },
+      "technique": {
+        "precision": 94,
+        "slice": 92,
+        "topspin": 90,
+        "serve": 89
+      },
+      "physical": {
+        "speed": 78,
+        "stamina": 79,
+        "reflexes": 80,
+        "jump": 73
+      },
+      "mental": {
+        "composure": 92,
+        "focus": 93,
+        "adaptability": 92,
+        "teamwork": 93
+      },
+      "tactical": {
+        "gameReading": 95,
+        "positioning": 94,
+        "anticipation": 93
+      }
+    }
+  },
+  {
+    "id": "vero-virseda",
+    "name": "Vero Virseda",
+    "gender": "female",
+    "ranking": 29,
+    "rankingPoints": 4492,
+    "age": 33,
+    "heightCm": 174,
+    "nationality": "ESP",
+    "photoUrl": "/players/vero-virseda.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 85,
+        "vibora": 86,
+        "bandejaOff": 84,
+        "volleyAttack": 83
+      },
+      "defense": {
+        "lob": 86,
+        "wallExit": 86,
+        "recovery": 87,
+        "bandejaDef": 86
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 87,
+        "topspin": 85,
+        "serve": 84
+      },
+      "physical": {
+        "speed": 84,
+        "stamina": 84,
+        "reflexes": 85,
+        "jump": 79
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 86,
+        "teamwork": 88
+      },
+      "tactical": {
+        "gameReading": 89,
+        "positioning": 88,
+        "anticipation": 87
+      }
+    }
+  },
+  {
+    "id": "aranzazu-osoro",
+    "name": "Aranzazu Osoro",
+    "gender": "female",
+    "ranking": 36,
+    "rankingPoints": 3546,
+    "age": 29,
+    "heightCm": 168,
+    "nationality": "ARG",
+    "photoUrl": "/players/aranzazu-osoro.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "counter",
+    "stats": {
+      "attack": {
+        "smash": 83,
+        "vibora": 84,
+        "bandejaOff": 83,
+        "volleyAttack": 81
+      },
+      "defense": {
+        "lob": 93,
+        "wallExit": 94,
+        "recovery": 94,
+        "bandejaDef": 94
+      },
+      "technique": {
+        "precision": 89,
+        "slice": 90,
+        "topspin": 85,
+        "serve": 85
+      },
+      "physical": {
+        "speed": 93,
+        "stamina": 91,
+        "reflexes": 92,
+        "jump": 86
+      },
+      "mental": {
+        "composure": 91,
+        "focus": 92,
+        "adaptability": 91,
+        "teamwork": 90
+      },
+      "tactical": {
+        "gameReading": 92,
+        "positioning": 91,
+        "anticipation": 93
+      }
+    }
+  },
+  {
+    "id": "martina-calvo",
+    "name": "Martina Calvo",
+    "gender": "female",
+    "ranking": 38,
+    "rankingPoints": 3321,
+    "age": 17,
+    "heightCm": 170,
+    "nationality": "ESP",
+    "photoUrl": "/players/martina-calvo.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 84,
+        "vibora": 85,
+        "bandejaOff": 83,
+        "volleyAttack": 81
+      },
+      "defense": {
+        "lob": 83,
+        "wallExit": 84,
+        "recovery": 84,
+        "bandejaDef": 83
+      },
+      "technique": {
+        "precision": 86,
+        "slice": 84,
+        "topspin": 82,
+        "serve": 81
+      },
+      "physical": {
+        "speed": 88,
+        "stamina": 88,
+        "reflexes": 89,
+        "jump": 83
+      },
+      "mental": {
+        "composure": 81,
+        "focus": 82,
+        "adaptability": 80,
+        "teamwork": 82
+      },
+      "tactical": {
+        "gameReading": 84,
+        "positioning": 83,
+        "anticipation": 82
+      }
+    }
+  },
+  {
+    "id": "jessica-castello",
+    "name": "Jessica Castello",
+    "gender": "female",
+    "ranking": 39,
+    "rankingPoints": 3290,
+    "age": 28,
+    "heightCm": 165,
+    "nationality": "ESP",
+    "photoUrl": "/players/jessica-castello.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 83,
+        "vibora": 84,
+        "bandejaOff": 82,
+        "volleyAttack": 81
+      },
+      "defense": {
+        "lob": 86,
+        "wallExit": 86,
+        "recovery": 87,
+        "bandejaDef": 86
+      },
+      "technique": {
+        "precision": 88,
+        "slice": 86,
+        "topspin": 84,
+        "serve": 83
+      },
+      "physical": {
+        "speed": 86,
+        "stamina": 86,
+        "reflexes": 87,
+        "jump": 81
+      },
+      "mental": {
+        "composure": 87,
+        "focus": 88,
+        "adaptability": 86,
+        "teamwork": 88
+      },
+      "tactical": {
+        "gameReading": 88,
+        "positioning": 87,
+        "anticipation": 86
+      }
+    }
+  },
+  {
+    "id": "lucia-sainz",
+    "name": "Lucia Sainz",
+    "gender": "female",
+    "ranking": 41,
+    "rankingPoints": 3172,
+    "age": 41,
+    "heightCm": 170,
+    "nationality": "ESP",
+    "photoUrl": "/players/lucia-sainz.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "defensive",
+    "stats": {
+      "attack": {
+        "smash": 76,
+        "vibora": 78,
+        "bandejaOff": 77,
+        "volleyAttack": 75
+      },
+      "defense": {
+        "lob": 93,
+        "wallExit": 92,
+        "recovery": 93,
+        "bandejaDef": 93
+      },
+      "technique": {
+        "precision": 90,
+        "slice": 88,
+        "topspin": 86,
+        "serve": 82
+      },
+      "physical": {
+        "speed": 81,
+        "stamina": 79,
+        "reflexes": 80,
+        "jump": 70
+      },
+      "mental": {
+        "composure": 91,
+        "focus": 92,
+        "adaptability": 91,
+        "teamwork": 90
+      },
+      "tactical": {
+        "gameReading": 93,
+        "positioning": 92,
+        "anticipation": 91
+      }
+    }
+  },
+  {
+    "id": "bea-caldera",
+    "name": "Bea Caldera",
+    "gender": "female",
+    "ranking": 42,
+    "rankingPoints": 3137,
+    "age": 23,
+    "heightCm": 169,
+    "nationality": "ESP",
+    "photoUrl": "/players/bea-caldera.jpg",
+    "preferredSide": "revers",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 89,
+        "vibora": 90,
+        "bandejaOff": 88,
+        "volleyAttack": 86
+      },
+      "defense": {
+        "lob": 80,
+        "wallExit": 80,
+        "recovery": 81,
+        "bandejaDef": 80
+      },
+      "technique": {
+        "precision": 86,
+        "slice": 84,
+        "topspin": 82,
+        "serve": 85
+      },
+      "physical": {
+        "speed": 86,
+        "stamina": 86,
+        "reflexes": 87,
+        "jump": 85
+      },
+      "mental": {
+        "composure": 83,
+        "focus": 84,
+        "adaptability": 82,
+        "teamwork": 82
+      },
+      "tactical": {
+        "gameReading": 85,
+        "positioning": 84,
+        "anticipation": 83
+      }
+    }
+  },
+  {
+    "id": "marina-guinart",
+    "name": "Marina Guinart",
+    "gender": "female",
+    "ranking": 43,
+    "rankingPoints": 3132,
+    "age": 28,
+    "heightCm": 171,
+    "nationality": "ESP",
+    "photoUrl": "/players/marina-guinart.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "balanced",
+    "stats": {
+      "attack": {
+        "smash": 82,
+        "vibora": 83,
+        "bandejaOff": 81,
+        "volleyAttack": 80
+      },
+      "defense": {
+        "lob": 85,
+        "wallExit": 85,
+        "recovery": 86,
+        "bandejaDef": 85
+      },
+      "technique": {
+        "precision": 87,
+        "slice": 85,
+        "topspin": 83,
+        "serve": 82
+      },
+      "physical": {
+        "speed": 85,
+        "stamina": 85,
+        "reflexes": 86,
+        "jump": 80
+      },
+      "mental": {
+        "composure": 85,
+        "focus": 86,
+        "adaptability": 84,
+        "teamwork": 86
+      },
+      "tactical": {
+        "gameReading": 87,
+        "positioning": 86,
+        "anticipation": 85
+      }
+    }
+  },
+  {
+    "id": "custom-player-1777678384976-46",
+    "name": "Paulin Fourquet",
+    "gender": "male",
+    "ranking": 999,
+    "rankingPoints": 0,
+    "age": 24,
+    "heightCm": 178,
+    "nationality": "FRA",
+    "photoUrl": "/players/_custom.jpg",
+    "preferredSide": "drive",
+    "dominantHand": "right",
+    "naturalStyle": "offensive",
+    "stats": {
+      "attack": {
+        "smash": 100,
+        "vibora": 90,
+        "bandejaOff": 90,
+        "volleyAttack": 90
+      },
+      "defense": {
+        "lob": 90,
+        "wallExit": 90,
+        "recovery": 90,
+        "bandejaDef": 90
+      },
+      "technique": {
+        "precision": 90,
+        "slice": 86,
+        "topspin": 86,
+        "serve": 100
+      },
+      "physical": {
+        "speed": 90,
+        "stamina": 80,
+        "reflexes": 80,
+        "jump": 80
+      },
+      "mental": {
+        "composure": 70,
+        "focus": 95,
+        "adaptability": 83,
+        "teamwork": 95
+      },
+      "tactical": {
+        "gameReading": 90,
+        "positioning": 92,
+        "anticipation": 92
+      }
+    }
+  }
+]

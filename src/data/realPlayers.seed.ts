@@ -78,13 +78,7 @@ const player = (seed: PlayerSeed): Player => ({
   age: seed.age,
   heightCm: seed.heightCm,
   nationality: seed.nationality,
-  photoUrl: `https://placehold.co/160x160?text=${encodeURIComponent(
-    seed.name
-      .split(' ')
-      .slice(0, 2)
-      .map((part) => part[0])
-      .join(''),
-  )}`,
+  photoUrl: `/players/${seed.id}.jpg`,
   preferredSide: seed.preferredSide,
   dominantHand: seed.dominantHand,
   naturalStyle: seed.naturalStyle,

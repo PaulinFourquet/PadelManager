@@ -1,0 +1,334 @@
+[
+  {
+    "id": "arturo-coello",
+    "name": "Arturo Coello",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Arturo_Coello_%28cropped%29.jpg/500px-Arturo_Coello_%28cropped%29.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Arturo_Coello",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "agustin-tapia",
+    "name": "Agustin Tapia",
+    "source": "wikidata",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Augustin%20Tapia%20(cropped).jpg?width=480",
+    "pageUrl": "https://www.wikidata.org/wiki/Q108697513",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "fede-chingotto",
+    "name": "Fede Chingotto",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=FC-fede-chingotto&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "ale-galan",
+    "name": "Ale Galan",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=AG-ale-galan&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "juan-lebron",
+    "name": "Juan Lebron",
+    "source": "wikidata",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Lebron.jpg?width=480",
+    "pageUrl": "https://www.wikidata.org/wiki/Q50918887",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "franco-stupaczuk",
+    "name": "Franco Stupaczuk",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Vigo_Open_2019_de_World_Padel_Tour_-_38.jpg/500px-Vigo_Open_2019_de_World_Padel_Tour_-_38.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Franco_Stupaczuk",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "mike-yanguas",
+    "name": "Mike Yanguas",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mike_Yanguas_padel.jpg/500px-Mike_Yanguas_padel.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Miguel_Yanguas",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "coki-nieto",
+    "name": "Coki Nieto",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=CN-coki-nieto&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "jon-sanz",
+    "name": "Jon Sanz",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=JS-jon-sanz&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "martin-di-nenno",
+    "name": "Martin Di Nenno",
+    "source": "wikidata",
+    "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Mart%C3%ADn%20Di%20Nenno.jpg?width=480",
+    "pageUrl": "https://www.wikidata.org/wiki/Q38623043",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "paquito-navarro",
+    "name": "Paquito Navarro",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vigo_Open_2019_de_World_Padel_Tour_-_34.jpg/500px-Vigo_Open_2019_de_World_Padel_Tour_-_34.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Paquito_Navarro",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "momo-gonzalez",
+    "name": "Momo Gonzalez",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=MG-momo-gonzalez&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "javi-garrido",
+    "name": "Javi Garrido",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=JG-javi-garrido&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "lucas-bergamini",
+    "name": "Lucas Bergamini",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=LB-lucas-bergamini&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "pablo-cardona",
+    "name": "Pablo Cardona",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=PC-pablo-cardona&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "javi-leal",
+    "name": "Javi Leal",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=JL-javi-leal&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "juan-tello",
+    "name": "Juan Tello",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Juan_Palacios_by_Augustas_Didzgalvis.jpg/500px-Juan_Palacios_by_Augustas_Didzgalvis.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Juan_Palacios_(basketball)",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "edu-alonso",
+    "name": "Edu Alonso",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=EA-edu-alonso&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "sanyo-gutierrez",
+    "name": "Sanyo Gutierrez",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=SG-sanyo-gutierrez&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "lucho-capra",
+    "name": "Lucho Capra",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=LC-lucho-capra&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "alex-ruiz",
+    "name": "Alex Ruiz",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Alexandre_Ruiz_2016-05-14.jpg/500px-Alexandre_Ruiz_2016-05-14.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Alexandre_Ruiz",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "alejandro-ruiz-granados",
+    "name": "Alejandro Ruiz Granados",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=AR-alejandro-ruiz-granados&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "victor-ruiz",
+    "name": "Victor Ruiz",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=VR-victor-ruiz&backgroundColor=1f9c5e%2C38a3a5%2C2c6748%2C5b8a3a&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "pablo-lima",
+    "name": "Pablo Lima",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lima_WPT_tenerife.jpg/500px-Lima_WPT_tenerife.jpg",
+    "pageUrl": "https://fr.wikipedia.org/wiki/Pablo_Lima",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "maxi-sanchez",
+    "name": "Maxi Sanchez",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vigo_Open_2019_de_World_Padel_Tour_-_7.jpg/500px-Vigo_Open_2019_de_World_Padel_Tour_-_7.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Maxi_S%C3%A1nchez",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "gemma-triay",
+    "name": "Gemma Triay",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dis12.jpg/500px-Dis12.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Gemma_Triay",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "delfi-brea",
+    "name": "Delfi Brea",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=DB-delfi-brea&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "ari-sanchez",
+    "name": "Ari Sanchez",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=AS-ari-sanchez&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "paula-josemaria",
+    "name": "Paula Josemaria",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=PJ-paula-josemaria&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "claudia-fernandez",
+    "name": "Claudia Fernandez",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Claudia_Fern%C3%A1ndez_en_2019.jpg/500px-Claudia_Fern%C3%A1ndez_en_2019.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Claudia_Fern%C3%A1ndez",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "bea-gonzalez",
+    "name": "Bea Gonzalez",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Beagonzalezjuly2013.jpg/500px-Beagonzalezjuly2013.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/B%C3%A9a_Gonz%C3%A1lez",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "sofia-araujo",
+    "name": "Sofia Araujo",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=SA-sofia-araujo&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "marta-ortega",
+    "name": "Marta Ortega",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/16.05.19-Firma_Fundaci%C3%B3n_Amancio_Ortega_%28cropped%29.jpg/500px-16.05.19-Firma_Fundaci%C3%B3n_Amancio_Ortega_%28cropped%29.jpg",
+    "pageUrl": "https://en.wikipedia.org/wiki/Marta_Ortega_P%C3%A9rez",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "andrea-ustero",
+    "name": "Andrea Ustero",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=AU-andrea-ustero&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "tamara-icardo",
+    "name": "Tamara Icardo",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=TI-tamara-icardo&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "alejandra-alonso",
+    "name": "Alejandra Alonso",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ale_Alonso_2022.png/500px-Ale_Alonso_2022.png",
+    "pageUrl": "https://en.wikipedia.org/wiki/Alejandra_Alonso",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "claudia-jensen",
+    "name": "Claudia Jensen",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=CJ-claudia-jensen&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "alejandra-salazar",
+    "name": "Alejandra Salazar",
+    "source": "wikipedia",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alejandra_Salazar.jpg/500px-Alejandra_Salazar.jpg",
+    "pageUrl": "https://es.wikipedia.org/wiki/Alejandra_Salazar",
+    "license": "CC BY-SA (Wikimedia Commons)"
+  },
+  {
+    "id": "vero-virseda",
+    "name": "Vero Virseda",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=VV-vero-virseda&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "aranzazu-osoro",
+    "name": "Aranzazu Osoro",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=AO-aranzazu-osoro&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "martina-calvo",
+    "name": "Martina Calvo",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=MC-martina-calvo&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "jessica-castello",
+    "name": "Jessica Castello",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=JC-jessica-castello&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "lucia-sainz",
+    "name": "Lucia Sainz",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=LS-lucia-sainz&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "bea-caldera",
+    "name": "Bea Caldera",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=BC-bea-caldera&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  },
+  {
+    "id": "marina-guinart",
+    "name": "Marina Guinart",
+    "source": "dicebear",
+    "imageUrl": "https://api.dicebear.com/9.x/initials/svg?seed=MG-marina-guinart&backgroundColor=d24a36%2Cb8336e%2C7b3a8a%2C38a3a5&backgroundType=gradientLinear&fontWeight=700&fontSize=46&chars=2",
+    "license": "DiceBear (CC0 — avataaars by Pablo Stanley CC BY 4.0)"
+  }
+]

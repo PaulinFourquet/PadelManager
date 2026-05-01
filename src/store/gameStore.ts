@@ -81,7 +81,7 @@ const createBlankPlayer = (index: number): Player => ({
   age: 22,
   heightCm: 178,
   nationality: 'FRA',
-  photoUrl: 'https://placehold.co/160x160?text=CP',
+  photoUrl: '/players/_custom.jpg',
   preferredSide: 'drive',
   dominantHand: 'right',
   naturalStyle: 'balanced',
